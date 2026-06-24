@@ -99,7 +99,7 @@ A Django-based gym management platform featuring:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username= winniekiboss-oss&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= winniekiboss-ossv&layout=compact&theme=tokyonight"/>
 
